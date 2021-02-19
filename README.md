@@ -1,5 +1,3 @@
-#
-
 <h1 align="center">
   <img src='assets/favicon.png' width='48'/>
   <br/>
